@@ -4,7 +4,7 @@
 
 Danh sách sinh viên: 
 **Phạm Văn Hà - 1312162**
-**Phạm Văn Hà - 1312162**
+**Dương Giang Sơn - 1312490**
 
 URL: **Insert your Heroku URL here**
 
